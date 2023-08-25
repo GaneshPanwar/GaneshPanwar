@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ganesh Panwar</h1>
-<h3 align="center">A Passionate Flutter developer And Web Developer from India</h3>
 
+<!-- Main Heading -->
+<h1 align="center">Hi 👋, I'm <em>Ganesh Panwar</em></h1>
+<h2 align="center">A Passionate <em>Flutter developer And Web Developer</em> from India</h2>
+<hr>
+
+<!-- Github Configuration -->
 <div align="center">
 <!-- Contribution  -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshPanwar&theme=tokyonight&date_format=%5BY%20%5DM%20j" height="320"  alt="ganesh-panwar" />
@@ -11,11 +15,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaneshPanwar&layout=compact&theme=tokyonight" height="194" alt="ganesh-panwar" />
  </div>
 </div>
-
+<hr>
 
 <!-- Social Links-->
 <div align="center">
-<h3>Social Links:</h3>
+<h2><em>Social Links</em></h2>
 <p>
 <a href="https://twitter.com/ganesh__panwar" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter" alt="ganesh_panwar" /></a>
 <a href="https://linkedin.com/in/ganesh-panwar" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin" alt="ganesh-panwar"/></a>
@@ -23,9 +27,10 @@
 
 </p>
 </div>
-
+<hr>
+<!-- Languages and Tools -->
 <div align="center">
-<h3>Languages and Tools:</h3>
+<h2><em>Languages and Tools</em></h2>
 <!-- Android -->
 <p align="center">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/android-000?style=for-the-badge&logo=android&logoColor=green" alt="Android")"/></a>
@@ -42,7 +47,7 @@
 </p>
 </div>
 
-
+<hr>
 <!-- Trophys-->
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GaneshPanwar&layout=compact&theme=tokyonight" width="100%"  alt="ganesh-panwar" /></a> -->
 
