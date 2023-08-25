@@ -7,10 +7,10 @@
 <!-- Github Configuration -->
 <div align="center">
 <!-- Contribution  -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshPanwar&theme=tokyonight&date_format=%5BY%20%5DM%20j" height="320"  alt="ganesh-panwar" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshPanwar&layout=compact&theme=tokyonight&date_format=%5BY%20%5DM%20j" height="320"  alt="ganesh-panwar" />
 <!-- Github Profile Stats -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GaneshPanwar&theme=tokyonight&count_private=true" alt="ganesh-panwar" />
+<img src="https://github-readme-stats.vercel.app/api?username=GaneshPanwar&layout=compact&theme=tokyonight&count_private=true" alt="ganesh-panwar" />
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaneshPanwar&layout=compact&theme=tokyonight" height="194" alt="ganesh-panwar" />
  </div>
