@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ganesh Panwar</h1>
 <h3 align="center">A Passionate Flutter developer And Web Developer from India</h3>
 
+<div align="left">
 <!-- Contribution  -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshPanwar&theme=tokyonight&date_format=%5BY%20%5DM%20j" height="310" width="100%" align="center-left" alt="ganesh-panwar" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshPanwar&theme=tokyonight&date_format=%5BY%20%5DM%20j" height="325"  alt="ganesh-panwar" />
 <!-- Github Profile Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=GaneshPanwar&theme=tokyonight&count_private=true" align="left" alt="ganesh-panwar" />
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaneshPanwar&layout=compact&theme=tokyonight" height="194" alt="ganesh-panwar" />
-
+</div>
 <!-- Social Links-->
 <h3 align="left">Social Links:</h3>
 <p align="left">
