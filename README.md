@@ -1,26 +1,33 @@
 <h1 align="center">Hi 👋, I'm Ganesh Panwar</h1>
 <h3 align="center">A Passionate Flutter developer And Web Developer from India</h3>
 
-<div align="left">
+<div align="center">
 <!-- Contribution  -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshPanwar&theme=tokyonight&date_format=%5BY%20%5DM%20j" height="325"  alt="ganesh-panwar" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshPanwar&theme=tokyonight&date_format=%5BY%20%5DM%20j" height="320"  alt="ganesh-panwar" />
 <!-- Github Profile Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=GaneshPanwar&theme=tokyonight&count_private=true" align="left" alt="ganesh-panwar" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GaneshPanwar&theme=tokyonight&count_private=true" alt="ganesh-panwar" />
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaneshPanwar&layout=compact&theme=tokyonight" height="194" alt="ganesh-panwar" />
+ </div>
 </div>
+
+
 <!-- Social Links-->
-<h3 align="left">Social Links:</h3>
-<p align="left">
+<div align="center">
+<h3>Social Links:</h3>
+<p>
 <a href="https://twitter.com/ganesh__panwar" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter" alt="ganesh_panwar" /></a>
 <a href="https://linkedin.com/in/ganesh-panwar" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin" alt="ganesh-panwar"/></a>
 <a href="https://play.google.com/store/apps/dev?id=7989763632565953614" target="blank"><img align="center" src="https://img.shields.io/badge/play_store-000?style=for-the-badge&logo=googleplay" alt="ganesh-panwar"/></a>
 
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+<h3>Languages and Tools:</h3>
 <!-- Android -->
-<p align="left">
+<p align="center">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/android-000?style=for-the-badge&logo=android&logoColor=green" alt="Android")"/></a>
 <!-- Flutter -->
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/flutter-000?style=for-the-badge&logo=flutter&logoColor=blue" alt="Flutter"/></a>
@@ -33,6 +40,7 @@
  <!-- Firebase -->
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase" alt="firebase" /> </a> 
 </p>
+</div>
 
 
 <!-- Trophys-->
